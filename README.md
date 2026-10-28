@@ -16,3 +16,6 @@ Coffee photos are loaded from Unsplash, so an internet connection is needed. Pri
 ## Website Setup
 The website is built with HTML, CSS, and JavaScript.
 The website is published using GitHub Pages.
+
+## Browser Testing
+The website was opened in a browser to check its layout and display.
