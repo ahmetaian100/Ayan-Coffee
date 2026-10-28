@@ -12,3 +12,7 @@
 - Responsive mobile navigation, demo order form, dark/light theme toggle
 
 Coffee photos are loaded from Unsplash, so an internet connection is needed. Prices and contact details are placeholders. The order form is for demonstration only and does not send real orders.
+
+## Website Setup
+The website is built with HTML, CSS, and JavaScript.
+The website is published using GitHub Pages.
